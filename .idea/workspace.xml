@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0c9f15f-9b86-417c-b8c4-391eb3ac9fe9" name="Default" comment="">
+    <list default="true" id="a0c9f15f-9b86-417c-b8c4-391eb3ac9fe9" name="Default" comment="newest commit">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
@@ -28,7 +28,7 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="72">
-              <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -40,10 +40,10 @@
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <marker date="1510643393771" expanded="true" signature="14265:14307" ph="..." />
-                <marker date="1510643393771" expanded="true" signature="14265:14325" ph="..." />
-                <marker date="1510643393771" expanded="true" signature="14265:14338" ph="..." />
-                <marker date="1510643393771" expanded="true" signature="14265:14353" ph="..." />
+                <marker date="1510643491364" expanded="true" signature="15473:15515" ph="..." />
+                <marker date="1510643491364" expanded="true" signature="15473:15533" ph="..." />
+                <marker date="1510643491364" expanded="true" signature="15473:15546" ph="..." />
+                <marker date="1510643491364" expanded="true" signature="15473:15561" ph="..." />
               </folding>
             </state>
           </provider>
@@ -152,6 +152,14 @@
       <option name="presentableId" value="Default" />
       <updated>1510452151146</updated>
     </task>
+    <task id="LOCAL-00001" summary="newest commit">
+      <created>1510643451485</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1510643451485</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -179,6 +187,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="newest commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="newest commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -248,10 +260,10 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1510643393771" expanded="true" signature="14265:14307" ph="..." />
-            <marker date="1510643393771" expanded="true" signature="14265:14325" ph="..." />
-            <marker date="1510643393771" expanded="true" signature="14265:14338" ph="..." />
-            <marker date="1510643393771" expanded="true" signature="14265:14353" ph="..." />
+            <marker date="1510643491364" expanded="true" signature="15473:15515" ph="..." />
+            <marker date="1510643491364" expanded="true" signature="15473:15533" ph="..." />
+            <marker date="1510643491364" expanded="true" signature="15473:15546" ph="..." />
+            <marker date="1510643491364" expanded="true" signature="15473:15561" ph="..." />
           </folding>
         </state>
       </provider>
@@ -259,7 +271,7 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
-          <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
           <folding />
         </state>
       </provider>
