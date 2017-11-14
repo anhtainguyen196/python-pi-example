@@ -1,4 +1,2 @@
 
-def main(msg):
-    print(msg)
-main("Hello City")
+print("Second Day In Python")
